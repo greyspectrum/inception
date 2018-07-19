@@ -21,6 +21,12 @@ interest to our client. We have reason to beleive that this
 confidential information has been encoded and sharded
 across these three machines, in order to thwart exfiltration.
 
+In order to access the machines, you must create cryptographic
+keys to authenticate to the security system. Do so by entering
+the following command in a shell:
+
+    ssh-keygen -t ed25519 -o -a 100
+
 In order to recieve payment for your services, you
 must access these secure machines, extract the secrets,
 assemble them, and decode the information.
