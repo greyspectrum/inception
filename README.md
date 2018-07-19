@@ -1,6 +1,6 @@
 # Inception
 
-To whom it may concern,
+To Whom It May Concern,
 
 We have an interest in retaining your team for a job. Please run the attached script in your terminal to find out more: 
 
