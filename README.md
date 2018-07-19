@@ -2,7 +2,11 @@
 
 To whom it may concern,
 
-We have an interest in retaining your team for job. Please run the attached script to find at more. If you choose to accept, you may bill us at your usual rate. I hope that this may prove of interest to you.
+We have an interest in retaining your team for job. Please run the attached script in your terminal to find at more: 
+
+bash job.sh
+
+If you choose to accept, you may bill us at your usual rate. I hope that this may prove of interest to you.
 
 Regards,
 
