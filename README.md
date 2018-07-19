@@ -6,7 +6,7 @@ We have an interest in retaining your team for a job. Please run the attached sc
 
 bash job.sh
 
-If you choose to accept, you may bill us at your usual rate. I hope that this may prove of interest to you.
+If you choose to accept, you may bill us at your usual rate. I hope that this may prove to be of interest to you.
 
 Regards,
 
