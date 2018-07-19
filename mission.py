@@ -27,6 +27,21 @@ the following command in a shell:
 
     ssh-keygen -t ed25519 -o -a 100
 
+You may find the following Unix tools of use:
+
+    ssh
+    scp
+    base64
+
+You may access documentation on any of these tools by typing:
+
+    man example
+
+... where "example" is the name of the tool. This will give 
+you access to the manual page. In addition, you may wish to 
+review how to give other users access to a system by adding
+their SSH key to authorized keys.
+
 In order to recieve payment for your services, you
 must access these secure machines, extract the secrets,
 assemble them, and decode the information.
