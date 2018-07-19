@@ -2,7 +2,7 @@
 
 To whom it may concern,
 
-We have an interest in retaining your team for job. Please run the attached script in your terminal to find at more: 
+We have an interest in retaining your team for a job. Please run the attached script in your terminal to find at more: 
 
 bash job.sh
 
