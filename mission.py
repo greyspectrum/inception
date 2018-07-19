@@ -32,6 +32,7 @@ You may find the following Unix tools of use:
     ssh
     scp
     base64
+    cat
 
 You may access documentation on any of these tools by typing:
 
