@@ -1,3 +1,3 @@
 # Inception
 
-Teach systems administration an practical cryptography via crime fantasy.
+Teach systems administration and practical cryptography via crime fantasy.
