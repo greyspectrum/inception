@@ -1,3 +1,3 @@
 # Inception
 
-A simple game to teach basic systems administration.
+Teach systems administration an practical cryptography via crime fantasy.
