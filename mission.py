@@ -52,11 +52,11 @@ will be publicly denied, should you be compromised.
 
 SYSTEM INFORMATION:
 
-10.242.118.30
+140.247.152.7
 
-10.242.118.31
+140.247.152.8
 
-10.242.118.32
+140.247.152.10
 
 GOOD LUCK.
 
